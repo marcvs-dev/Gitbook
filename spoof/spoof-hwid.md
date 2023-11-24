@@ -7,7 +7,7 @@ description: How to spoof HWID
 1. Run **loader**
 2. Enter key _(Check **Remember me**_)
 3. **Login**
-4. Check your **serials** and make a screenshot
+4. Check your **serials** and make a screenshot and send it in the ticket!
 5. Navigate to **Configs**
 6. Enable one of the two options
 
